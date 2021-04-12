@@ -9,7 +9,8 @@ class AboutPage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Please Bana do',
+          'Please ye wala bhi bana do',
+          textAlign: TextAlign.center,
           style: TextStyle(
             fontSize: 50.0,
           ),
